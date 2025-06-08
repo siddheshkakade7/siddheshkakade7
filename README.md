@@ -9,17 +9,29 @@
 
 ---
 
+## 🌐 Connect with Me
+
 <p align="center">
   <a href="mailto:kakadesiddhesh777@gmail.com" title="Email">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email" width="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
-  <a href="https://linkedin.com/in/siddhesh-kakade-35636627b" title="LinkedIn">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"/>
+  &nbsp;
+  <a href="https://linkedin.com/in/siddhesh-kakade-35636627b" title="LinkedIn Profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="tel:+918459748540" title="Phone">
-    <img src="https://img.icons8.com/fluency/48/phone.png" alt="Phone" width="40"/>
+  &nbsp;
+  <a href="tel:+918459748540" title="Call Me">
+    <img src="https://img.shields.io/badge/Call-Now-brightgreen?style=for-the-badge&logo=phone&logoColor=white" alt="Phone Badge" />
   </a>
 </p>
+
+---
+
+### 📫 Contact Info
+
+- 📧 Email: [kakadesiddhesh777@gmail.com](mailto:kakadesiddhesh777@gmail.com)  
+- 📞 Phone: [+91 8459748540](tel:+918459748540)  
+- 🔗 LinkedIn: [https://linkedin.com/in/siddhesh-kakade-35636627b](https://linkedin.com/in/siddhesh-kakade-35636627b)
 
 
 ---
