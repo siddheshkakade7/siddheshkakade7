@@ -44,16 +44,6 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddheshkakade&show_icons=true&theme=tokyonight" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddheshkakade&theme=tokyonight" height="170px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshkakade&layout=compact&theme=tokyonight" height="150px"/>
-</p>
 
 ---
 
