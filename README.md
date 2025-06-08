@@ -93,7 +93,7 @@
 
 🎓 **B.Tech in Computer Engineering**  
 Indira College Of Engineering & Management – Pune  
-🗓️ *2021 – Present* | 📊 *70%*
+🗓️ *2021 – 2025* | 📊 *70%*
 
 ---
 
