@@ -1,10 +1,24 @@
 <!-- README.md -->
 
-<h1 align="center">Hi 👋, I'm Siddhesh Kakade</h1>
-<h3 align="center">🌟 Full Stack Python Developer | Passionate about Web Apps & Clean Code</h3>
+<h1 align="center">Hey there 👋, I'm <span style="color:#F75C7E">Siddhesh Kakade</span></h1>
+<h3 align="center">💻 Full Stack Python Developer | 🧠 Problem Solver | 🎯 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Python+Developer;Django+%7C+SQL+%7C+SQLite;Clean+UI+%2B+Efficient+APIs;Let's+Build+Something+Amazing!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Python+%2B+Django;RESTful+APIs+%7C+SQL+%2F+SQLite+%2F+MySQL;Frontend+with+HTML+%2F+CSS+%2F+Bootstrap;Clean+UI+Design+%2B+Interactive+UX;Let's+Build+Impactful+Software+Together!+🚀" alt="Typing SVG" />
+</p>
+
+---
+
+<p align="center">
+  🔹 B.Tech Computer Engineering Student @ Indira College, Pune  
+  🔹 Passionate about building scalable web apps & APIs  
+  🔹 Team Player | Quick Learner | Clean Code Advocate  
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siddheshkakade&style=flat-square&color=blue" alt="Profile views" /> • 
+  <img src="https://img.shields.io/github/followers/siddheshkakade?label=Followers&style=flat-square" alt="GitHub Followers" /> • 
+  <a href="mailto:kakadesiddhesh777@gmail.com"><img src="https://img.shields.io/badge/Email-kakadesiddhesh777@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
