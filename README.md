@@ -9,11 +9,18 @@
 
 ---
 
-## 🌐 Connect with me
+<p align="center">
+  <a href="mailto:kakadesiddhesh777@gmail.com" title="Email">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email" width="40"/>
+  </a>
+  <a href="https://linkedin.com/in/siddhesh-kakade-35636627b" title="LinkedIn">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"/>
+  </a>
+  <a href="tel:+918459748540" title="Phone">
+    <img src="https://img.icons8.com/fluency/48/phone.png" alt="Phone" width="40"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhesh-kakade-35636627b)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:kakadesiddhesh777@gmail.com)
-[![Phone](https://img.shields.io/badge/Call-Now-green)](tel:+918459748540)
 
 ---
 
