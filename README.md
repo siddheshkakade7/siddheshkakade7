@@ -15,11 +15,7 @@
   🔹 Team Player | Quick Learner | Clean Code Advocate  
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddheshkakade&style=flat-square&color=blue" alt="Profile views" /> • 
-  <img src="https://img.shields.io/github/followers/siddheshkakade?label=Followers&style=flat-square" alt="GitHub Followers" /> • 
-  <a href="mailto:kakadesiddhesh777@gmail.com"><img src="https://img.shields.io/badge/Email-kakadesiddhesh777@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+
 
 ---
 
