@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  🔹 B.Tech Computer Engineering Student @ Indira College, Pune  
+  🔹 BE/ CS From Indira College of Engineering & Management, Pune  
   🔹 Passionate about building scalable web apps & APIs  
   🔹 Team Player | Quick Learner | Clean Code Advocate  
 </p>
@@ -39,8 +39,7 @@
 
 ### 📫 Contact Info
 
-- 📧 Email: [kakadesiddhesh777@gmail.com](mailto:kakadesiddhesh777@gmail.com)  
-- 📞 Phone: [+91 8459748540](tel:+918459748540)  
+- 📧 Email: [kakadesiddhesh777@gmail.com](mailto:kakadesiddhesh777@gmail.com)    
 - 🔗 LinkedIn: [https://linkedin.com/in/siddhesh-kakade-35636627b](https://linkedin.com/in/siddhesh-kakade-35636627b)
 
 
